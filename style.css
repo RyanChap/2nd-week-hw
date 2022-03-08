@@ -1,0 +1,84 @@
+.contact-info {
+border: 3px dashed;
+height: 55px;
+padding: 20px;
+text-align: center;
+background-color: aqua;
+}
+#con-line {
+font-weight: bolder;
+font-size: larger;
+font: italic;
+color: rgb(15, 13, 2);
+display: flex;
+justify-content: space-between;
+width: 100%;
+}
+
+.My-names {
+text-align: center;  
+ font-family: URW Chancery L,Snell Roundhand;
+ display:block;
+ padding: 2px;
+ border-style: double;
+ background-color: red;
+}
+
+#names {
+    display: flex;
+    justify-content:space-evenly;
+    width: 100%;
+    border-style: groove;
+    border-style: solid;
+}
+#para {
+    text-align: center;
+    padding: 10px;
+    border: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+.list {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline;
+}
+#email{
+    border: 50px;
+    padding: 20px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    margin: 0%;
+}
+#phone-number{
+    border: 50px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(0, 0, 15);
+    color: white;
+}
+#ending{
+    border: 30px;
+    padding: 5px;
+    background-color: beige;
+    color: black;
+    text-align: center;
+    font-size: x-large;
+    font: italic;
+}
+#flag{
+    padding: 10px;
+    border: 15px;
+    display: block;
+    margin:auto
+}
+.side-note{
+width: 275px;
+margin-right:8px;
+background-color: rgb(217, 240, 10);
+border-style:double;
+style="position: relative;
+right 100px; top 100px";
+}
